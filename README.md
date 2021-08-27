@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@luminous73_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luminous73_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman maurya" height="30" width="40" /></a>
+<a href="https://twitter.com/luminous73_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@luminous73_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-maurya73/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-maurya73" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amanassassin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amanassassin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amanassassin73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanassassin73" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aman_assassin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aman_assassin" height="30" width="40" /></a>

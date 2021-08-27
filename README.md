@@ -13,11 +13,11 @@
 ***
 
 # Stats: ✨
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanassassin&show_icons=true&locale=en&layout=compact" alt="amanassassin" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanassassin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amanassassin" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanassassin&show_icons=true&locale=en" alt="amanassassin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanassassin&show_icons=true&locale=en&theme=tokyonight" alt="amanassassin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanassassin&" alt="amanassassin" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>

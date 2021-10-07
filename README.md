@@ -12,6 +12,10 @@
 
 ***
 
+![](https://komarev.com/ghpvc/?username=AmanAssassin&color=blue)
+
+
+
 # Stats: ✨
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanassassin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amanassassin" /></p> 
 

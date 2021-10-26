@@ -6,9 +6,9 @@
 <!-- <img src="https://github.com/Aryan-Srivastava/Aryan-Srivastava/blob/main/monkey.gif" alt="coding monke" width="380" class="center"/> -->
 
 - 😄 I am a sophomore undergrad student pursuing **B.Tech(C.S.E.)**.
-- 💻 I am a Competetive programmer
+- 💻 I am a Competetive programmer / Web Developer
 - 🌱 I’m currently learning DSA and Web development.
-- 🎯 Looking forward to contribute to open source more.
+- 🎯 Looking forward to contribute to open source more and make some cool projects.
 
 ***
 
@@ -17,7 +17,7 @@
 
 
 # Stats: ✨
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanassassin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amanassassin" /></p> 
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanassassin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amanassassin" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanassassin&show_icons=true&locale=en&theme=tokyonight" alt="amanassassin" /></p>
 

@@ -2,14 +2,16 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # every day at midnight
+  workflow_dispatch: # allows manual trigger
 
 jobs:
   build:
+    name: Generate GitHub Contribution Snake
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Generate Snake SVG

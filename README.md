@@ -25,6 +25,7 @@
 
 ### 🧠 Languages & Tools
 
+<br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,cpp,python,git,github,firebase,docker,tailwind,figma,vscode,linux,vercel,&perline=10" />
 </div>
